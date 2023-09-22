@@ -1,1 +1,1 @@
-# Mastering-Image-Segmentation-with-PyTorch
+# Microsoft Azure For .NET Developers
